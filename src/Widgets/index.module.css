@@ -1,0 +1,14 @@
+.buttoncontainer{
+    background-color: #8ABFA3;
+    min-width: 150px;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 0 20px 0 black;
+}
+.buttoncontainer:hover{
+    box-shadow: 0 0 0px 0 black;
+
+}
